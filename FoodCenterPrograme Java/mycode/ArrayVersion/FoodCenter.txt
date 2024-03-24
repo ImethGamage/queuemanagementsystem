@@ -1,0 +1,14 @@
+
+Remaining burgers stock: 40
+
+******************************
+*           Cashiers         *
+******************************
+	X		O		O	
+	X		X		X	
+	  		X		X	
+	 		 		X	
+	 		 		X	
+Customers name in alphabetical order 
+Imeth
+Tithira
